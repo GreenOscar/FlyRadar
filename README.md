@@ -15,5 +15,6 @@ data = {
 
 response = requests.post(url, json=data)
 
-print(response.status_code)
+print(response.status_
+
 print(response.text)

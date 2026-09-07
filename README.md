@@ -15,8 +15,4 @@ data = {
 
 response = requests.post(url, json=data)
 
-print(response.status_
-
-print(response.text)
-
 pip install requests

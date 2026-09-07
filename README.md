@@ -16,3 +16,4 @@ data = {
 response = requests.post(url, json=data)
 
 pip install requests
+python test_telegram.py
